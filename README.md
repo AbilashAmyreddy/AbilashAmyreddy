@@ -14,11 +14,18 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Developer** specializing in building intelligent solutions using **Python**, **Machine Learning**, and **Data Science**. Currently undergoing advanced training at **InternsElite**, where I'm mastering **Generative AI**, **Advanced Python**, and working on real-world problem-solving projects.
+I'm a passionate **AI/ML Developer** specializing in building intelligent solutions using **Python**, **Machine Learning**, and **Data Science**. Currently undergoing advanced training at **InternElite**.
 
-My focus is on creating data-driven applications that transform raw data into actionable insights. I combine technical expertise with creative problem-solving to develop innovative solutions in customer analytics, price prediction, and AI-powered recommendation systems.
+My focus is on creating data-driven applications that transform raw data into actionable insights. I combine technical expertise with creative problem-solving to develop innovative solutions in cutting-edge AI technologies.
 
 **What drives me:** Building systems that make a real difference in solving complex business problems through data intelligence and artificial intelligence.
+
+---
+
+## 🎓 Education
+
+### **Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE)**
+- Minor Degree in **Artificial Intelligence & Machine Learning (AI&ML)**
 
 ---
 
