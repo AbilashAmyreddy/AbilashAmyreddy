@@ -4,7 +4,7 @@
 
 ## 🚀 AI/ML Developer | Data Science Enthusiast | Full-Stack Problem Solver
 
-[![GitHub followers](https://img.shields.io/github/followers/AbilashAmyreddy?style=social)](https://github.com/AbilashAmyreddy)
+![Profile Views](https://komarev.com/ghpvc/?username=AbilashAmyreddy&color=blue)
 [![GitHub User's stars](https://img.shields.io/github/stars/AbilashAmyreddy?style=social)](https://github.com/AbilashAmyreddy?tab=stars)
 [![Email](https://img.shields.io/badge/Email-abilashreddycvr%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:abilashreddycvr@gmail.com)
 
@@ -14,9 +14,9 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Developer** specializing in building intelligent solutions using **Python**, **Machine Learning**, and **Data Science**. Currently undergoing advanced training at **InternsElite AI Training Program**, I'm focused on developing cutting-edge applications that combine computer vision, deep learning, and real-time data processing.
+I'm a passionate **AI/ML Developer** specializing in building intelligent solutions using **Python**, **Machine Learning**, and **Data Science**. Currently undergoing advanced training at **InternsElite AI Training Program**.
 
-My focus is on creating data-driven applications that transform raw data into actionable insights. I combine technical expertise with creative problem-solving to develop innovative solutions in computer vision, sign language recognition, emotion detection, customer analytics, and price prediction.
+My focus is on creating data-driven applications that transform raw data into actionable insights. I combine technical expertise with creative problem-solving to develop innovative solutions in computer vision, deep learning, and business analytics.
 
 **What drives me:** Building systems that make a real difference in solving complex business problems through data intelligence and artificial intelligence.
 
@@ -90,7 +90,7 @@ My focus is on creating data-driven applications that transform raw data into ac
 
 </div>
 
-An advanced computer vision application that recognizes sign language in real-time using deep learning and hand landmark detection. The system captures live webcam input, detects hand gestures, and translates them into text with a sophisticated gesture-commit workflow.
+An advanced computer vision application that recognizes sign language in real-time using deep learning and hand landmark detection. The system captures live webcam input, detects hand gestures, and provides real-time feedback with high accuracy.
 
 - **Core Technology:** CNN-based Classification + MediaPipe Hand Landmark Detection + TensorFlow
 - **Features:**
@@ -287,7 +287,7 @@ May - July 2026
 └── 🏠 HousePriceAnalyzer.AI (12 days old) - Price Prediction
 ```
 
-**Trajectory:** Building increasingly complex ML applications with real-world applicability and accessibility focus ⬆��
+**Trajectory:** Building increasingly complex ML applications with real-world applicability and accessibility focus ⬆️
 
 ---
 
@@ -310,10 +310,5 @@ May - July 2026
 ### ⭐ If you find my projects useful or inspiring, please consider giving them a star! ⭐
 
 **Let's build the future of AI together!** 🚀
-
----
-
-### 📊 Profile Views Counter
-![](https://komarev.com/ghpvc/?username=AbilashAmyreddy&color=blue)
 
 </div>
