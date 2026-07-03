@@ -197,18 +197,6 @@ Uses advanced CNN-based emotion detection to analyze real-time facial expression
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Abilash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbilashAmyreddy&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashAmyreddy&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🚀 What I'm Currently Doing
 
 ### **📚 Learning & Development**
