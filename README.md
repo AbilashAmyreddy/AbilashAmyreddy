@@ -14,9 +14,9 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Developer** specializing in building intelligent solutions using **Python**, **Machine Learning**, and **Data Science**. Currently undergoing advanced training at **InternElite**.
+I'm a passionate **AI/ML Developer** specializing in building intelligent solutions using **Python**, **Machine Learning**, and **Data Science**. Currently undergoing advanced training at **InternsElite AI Training Program**, I'm focused on developing cutting-edge applications that combine computer vision, deep learning, and real-time data processing.
 
-My focus is on creating data-driven applications that transform raw data into actionable insights. I combine technical expertise with creative problem-solving to develop innovative solutions in cutting-edge AI technologies.
+My focus is on creating data-driven applications that transform raw data into actionable insights. I combine technical expertise with creative problem-solving to develop innovative solutions in computer vision, sign language recognition, emotion detection, customer analytics, and price prediction.
 
 **What drives me:** Building systems that make a real difference in solving complex business problems through data intelligence and artificial intelligence.
 
@@ -39,7 +39,7 @@ My focus is on creating data-driven applications that transform raw data into ac
 - **Machine Learning** - Supervised & Unsupervised Learning
 - **Deep Learning** - Neural Networks, CNNs, RNNs
 - **Generative AI** (GenAI) - LLMs, Text Generation
-- **Computer Vision** - Image Recognition, Emotion Detection
+- **Computer Vision** - Image Recognition, Emotion Detection, Sign Language Recognition
 - **Natural Language Processing** - Text Analysis, Feature Extraction
 - **Statistical Analysis** - Hypothesis Testing, Data Interpretation
 
@@ -51,9 +51,10 @@ My focus is on creating data-driven applications that transform raw data into ac
 - **Feature Engineering** - Data Preprocessing, Transformation
 
 ### **Frameworks & Libraries**
-- **ML/DL:** TensorFlow, Keras, Scikit-Learn
+- **ML/DL:** TensorFlow, Keras, Scikit-Learn, MediaPipe
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Web:** Streamlit (Interactive Applications)
+- **Web:** Streamlit (Interactive Applications), Tkinter (Desktop UI)
+- **Computer Vision:** OpenCV, MediaPipe Hand Tracking
 - **Utilities:** Jupyter Notebook, Git & GitHub
 
 ### **Tools & Platforms**
@@ -61,6 +62,7 @@ My focus is on creating data-driven applications that transform raw data into ac
 - VS Code (Development Environment)
 - Jupyter Notebook (Experimentation)
 - Streamlit (App Deployment)
+- OpenCV & MediaPipe (Computer Vision)
 
 ---
 
@@ -80,6 +82,33 @@ My focus is on creating data-driven applications that transform raw data into ac
 ---
 
 ## 💼 Featured Projects
+
+<div align="center">
+
+### 🤟 **SignSense AI**
+**Real-Time Sign Language Recognition Desktop Application**
+
+</div>
+
+An advanced computer vision application that recognizes sign language in real-time using deep learning and hand landmark detection. The system captures live webcam input, detects hand gestures, and translates them into text with a sophisticated gesture-commit workflow.
+
+- **Core Technology:** CNN-based Classification + MediaPipe Hand Landmark Detection + TensorFlow
+- **Features:**
+  - Live webcam-based hand gesture recognition
+  - Real-time hand landmark detection and tracking
+  - CNN-based gesture classification
+  - Temporal smoothing and confidence gating
+  - Rule-based handling for compound gestures (NEXT, OK, BACKSPACE)
+  - Interactive Tkinter desktop UI with live video pane
+  - UDP integration with Unity for cross-platform support
+  - Automatic logging of low-confidence and manually marked samples
+  - Gesture-commit workflow for accurate sentence assembly
+  
+- **Tech Stack:** Python | TensorFlow/Keras | MediaPipe | OpenCV | Tkinter | Deep Learning | Computer Vision
+
+🤟 [View Repository](https://github.com/AbilashAmyreddy/SignSense-AI)
+
+---
 
 <div align="center">
 
@@ -155,14 +184,16 @@ Uses advanced CNN-based emotion detection to analyze real-time facial expression
 
 | Area | Proficiency | Primary Projects | Status |
 |------|:-----------:|:----------------:|:------:|
+| **Sign Language Recognition** | ⭐⭐⭐⭐⭐ | SignSense AI | ✅ Live |
+| **Computer Vision** | ⭐⭐⭐⭐⭐ | SignSense AI, MoodForMusic | ✅ Production |
+| **Deep Learning / CNN** | ⭐⭐⭐⭐⭐ | MoodForMusic, SignSense AI | ✅ Live |
 | **Customer Analytics** | ⭐⭐⭐⭐⭐ | ClusterCustomer | ✅ Live |
 | **Price Prediction** | ⭐⭐⭐⭐ | HousePriceAnalyzer.AI | ✅ Live |
-| **Deep Learning / CNN** | ⭐⭐⭐⭐⭐ | MoodForMusic | ✅ Live |
 | **Data Visualization** | ⭐⭐⭐⭐ | All Projects | ✅ Production |
 | **Python Development** | ⭐⭐⭐⭐⭐ | All Projects | ✅ Advanced |
 | **GenAI Applications** | ⭐⭐⭐⭐ | In Development | 📚 Training |
 | **Web Scraping** | ⭐⭐⭐⭐ | HousePriceAnalyzer.AI | ✅ Implemented |
-| **Streamlit Apps** | ⭐⭐⭐⭐ | All Projects | ✅ Production |
+| **Streamlit Apps** | ⭐⭐⭐⭐ | ClusterCustomer, HousePriceAnalyzer.AI, MoodForMusic | ✅ Production |
 
 ---
 
@@ -187,6 +218,7 @@ Uses advanced CNN-based emotion detection to analyze real-time facial expression
   - Building solutions for **real-world business problems**
   
 ### **💡 Active Projects**
+- 🤟 Deployed **SignSense AI** - Real-time sign language recognition
 - 🔧 Developing more ML applications with real business impact
 - 📊 Expanding portfolio with advanced GenAI applications
 - 🤖 Exploring LLMs and their applications
@@ -195,6 +227,7 @@ Uses advanced CNN-based emotion detection to analyze real-time facial expression
 ### **📖 Knowledge Expansion**
 - Large Language Models (LLMs) & Transformers
 - Advanced Computer Vision Applications
+- Hand Gesture & Sign Language Recognition
 - MLOps & Model Deployment Strategies
 - Production ML Pipelines
 - Cloud-based AI Solutions
@@ -206,11 +239,12 @@ Uses advanced CNN-based emotion detection to analyze real-time facial expression
 > **"Data tells stories, AI understands them, and applications transform them into business value."**
 
 ### Vision
-Transform complex business challenges into intelligent, data-driven solutions that create measurable impact.
+Transform complex business challenges into intelligent, data-driven solutions that create measurable impact in computer vision, gesture recognition, and beyond.
 
 ### Mission
 - Build scalable AI/ML systems that solve real-world problems
-- Master cutting-edge GenAI technologies
+- Master cutting-edge GenAI technologies and computer vision applications
+- Create accessible solutions like sign language recognition tools
 - Contribute to the advancement of intelligent applications
 - Mentor and inspire the next generation of data scientists
 
@@ -219,6 +253,7 @@ Transform complex business challenges into intelligent, data-driven solutions th
 - **Impact** - Creating solutions that matter
 - **Excellence** - Building production-grade systems
 - **Collaboration** - Learning and growing together
+- **Accessibility** - Making AI solutions available to all
 
 ---
 
@@ -228,6 +263,8 @@ I'm always interested in collaborating on:
 - 🤝 **AI/ML Projects** - Building intelligent solutions
 - 💭 **Data Science Discussions** - Sharing ideas and learning
 - 🚀 **GenAI Exploration** - Exploring cutting-edge AI
+- 👁️ **Computer Vision Applications** - Building visual recognition systems
+- 🤟 **Sign Language Recognition** - Accessibility-focused projects
 - 📊 **Business Analytics** - Solving real problems with data
 
 ### 📫 Get in Touch
@@ -243,24 +280,28 @@ I'm always interested in collaborating on:
 ## 📈 Project Growth Timeline
 
 ```
-May 2026
+May - July 2026
+├── 🤟 SignSense AI - Real-Time Sign Language Recognition
 ├── 🎧 MoodForMusic (5 days old) - CNN Emotion Detection
 ├── 🎯 ClusterCustomer (11 days old) - Customer Segmentation  
 └── 🏠 HousePriceAnalyzer.AI (12 days old) - Price Prediction
 ```
 
-**Trajectory:** Building increasingly complex ML applications with real-world applicability ⬆️
+**Trajectory:** Building increasingly complex ML applications with real-world applicability and accessibility focus ⬆��
 
 ---
 
 ## 🏆 Key Achievements
 
-- ✅ Built 3 production-ready ML applications
-- ✅ Mastered Python for data science workflows
-- ✅ Implemented advanced clustering & deep learning techniques
+- ✅ Built 4 production-ready ML applications with diverse use cases
+- ✅ Implemented real-time sign language recognition system
+- ✅ Created CNN-based emotion detection for music recommendations
+- ✅ Mastered Python for data science and computer vision workflows
+- ✅ Implemented advanced clustering, deep learning, and computer vision techniques
 - ✅ Currently undergoing intensive AI/GenAI training
-- ✅ Creating Streamlit dashboards for interactive insights
-- ✅ Integrating real-time data sources into ML pipelines
+- ✅ Creating Streamlit dashboards and Tkinter desktop UIs for interactive insights
+- ✅ Integrating real-time data sources and camera feeds into ML pipelines
+- ✅ Building accessible AI solutions for gesture and sign recognition
 
 ---
 
